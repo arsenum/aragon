@@ -96,7 +96,7 @@ const Welcome = React.memo(function Welcome({
       >
         Do you need more information about Aragon?{' '}
         <Link href="https://aragon.org/" external>
-          Visit our homepage
+          Visit our homepage!
         </Link>
       </p>
     </Layout>
